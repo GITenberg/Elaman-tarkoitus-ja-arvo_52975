@@ -1,5 +1,5 @@
 _repo: Elaman-tarkoitus-ja-arvo_52975
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Hendell, Lauri Juhana
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '47144'
     url: http://www.gutenberg.org/2009/agents/47144
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Eucken, Rudolf
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/42188
     wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52975#Elaman-tarkoitus-ja-arvo
 gutenberg_issued: '2016-09-04'
 gutenberg_type: Text
 identifiers:
