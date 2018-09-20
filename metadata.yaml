@@ -1,0 +1,38 @@
+_repo: Elaman-tarkoitus-ja-arvo_52975
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hendell, Lauri Juhana
+    alias: Hendell, Lauri Juhanna
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '47144'
+    url: http://www.gutenberg.org/2009/agents/47144
+creator:
+  author:
+    agent_name: Eucken, Rudolf
+    aliases:
+    - Eucken, Rudolf Christof
+    - Eucken, Rudolph
+    - Eucken, R.‏ (Rudolf)
+    birthdate: 1846
+    deathdate: 1926
+    gutenberg_agent_id: '42188'
+    url: http://www.gutenberg.org/2009/agents/42188
+    wikipedia: http://en.wikipedia.org/wiki/Rudolf_Christoph_Eucken
+description: ''
+gutenberg_issued: '2016-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52975'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Values'
+- !lcsh 'Life'
+- !lcc 'B'
+- GITenberg
+title: Elämän tarkoitus ja arvo
+url: http://www.gutenberg.org/ebooks/52975
